@@ -38,6 +38,7 @@ namespace 查询类开发模板vb.net版
         private void But_查询_Click(object sender, EventArgs e)
         {
             doSelect();
+          // ---
         }
         public void doSelect()
         {
